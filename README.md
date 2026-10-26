@@ -60,66 +60,23 @@ I enjoy learning by building practical projects, understanding how things work b
 
 > My focus is on understanding the fundamentals and using each technology where it makes sense—not just collecting tools.
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
-<!-- Replace the placeholder repository URLs with your actual project links. -->
+<p align="center">
+  <a href="https://github.com/majithiyaaditya/KasBan_ToDo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=KasBan_ToDo&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="KasBan Todo repository card" />
+  </a>
+  <a href="https://github.com/majithiyaaditya/Simon_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=Simon_game&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="Simon Game repository card" />
+  </a>
+  <a href="https://github.com/majithiyaaditya/LMS-MAIN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=LMS-MAIN&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="Library Management System repository card" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📋 KasBan Todo
-
-**A Kanban-style task management application**
-
-A project focused on organizing tasks into a structured workflow with an emphasis on a clean user interface.
-
-- Task organization and workflow
-- React-based frontend development
-- State management with Zustand
-
-**Status:** Project completed ✅
-
-
-[View repository](https://github.com/majithiyaaditya/KasBan_ToDo)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🎮 Simon Game
-
-**An interactive memory and sequence game**
-
-A browser-based game where players repeat an increasingly challenging sequence of colors and sounds to test their memory and concentration.
-
-- Interactive gameplay and user input
-- Sequence tracking and game logic
-- Increasing difficulty as the player progresses
-
-**Status:** Project completed ✅
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-[View Repository](https://github.com/majithiyaaditya/Simon_game)
-
-### 📚 LMS-MAIN — Library Management System
-
-**A web application for library management**
-
-A project focused on organizing and managing library resources through a digital system.
-
-- 📖 Manage and organize library books.
-- 🔍 Make it easier to find and access book information.
-- 📋 Support library record management.
-- 💻 Build a structured and user-friendly interface.
-
-**Status:** Project completed ✅
-
-
-[View Repository](https://github.com/majithiyaaditya/LMS-MAIN)
-</td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Three completed projects. One continuous learning journey.</sub>
+</p>
 
 💡 These project descriptions are starting points based on my current development work. I'll update them with actual repository links, screenshots, demos, and completed features as the projects evolve.
 
