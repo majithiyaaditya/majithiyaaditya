@@ -22,16 +22,16 @@
 </div>
 
 ---
-
+```js
 $ whoami
-
+```
 
 ## 👋 Hey, I'm Aditya!
 
 I'm an **MCA student and aspiring frontend developer**, passionate about building clean, interactive, and user-friendly web experiences.
 
 I enjoy learning by building practical projects, understanding how things work behind the scenes, and improving my code one step at a time.
-
+```js  
 const aditya = {
   role: "Frontend Developer in Progress",
   education: "Master of Computer Applications (MCA)",
@@ -41,11 +41,16 @@ const aditya = {
     "Web Applications",
     "Problem Solving"
   ],
-  currentlyLearning: ["React", "JavaScript", "Web Development"],
+  currentlyLearning: [
+    "React",
+    "JavaScript",
+    "Web Development"
+  ],
   mindset: "Learn → Build → Improve → Repeat"
 };
 
 console.log("Thanks for stopping by! 🚀");
+```
 
 ## ⚡ What I'm Working On
 
