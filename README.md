@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/majithiyaaditya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=56C7B0&center=true&vCenter=true&width=600&lines=%24+hello%2C+world!;%24+building+interfaces+that+feel+right;%24+learning+React+one+component+at+a+time;%24+turning+ideas+into+working+projects;%24+always+curious.+always+building." alt="Animated developer introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=56C7B0&center=true&vCenter=true&width=700&lines=%24+hello%2C+world!;%24+building+cool+web+experiences;%24+learning+React+step+by+step;%24+turning+ideas+into+projects;%24+always+curious.+always+building." alt="Animated developer introduction"/>
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 </div>
 
 ---
-```js
-$ whoami
-```
+<p align="left">
+  <code>$ whoami</code>
+</p>
 
 ## 👋 Hey, I'm Aditya!
 
