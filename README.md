@@ -66,18 +66,41 @@ I enjoy learning by building practical projects, understanding how things work b
   <a href="https://github.com/majithiyaaditya/KasBan_ToDo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=KasBan_ToDo&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="KasBan Todo repository card" />
   </a>
+</p>
+
+<p align="center">
+  <strong>📝 KasBan Todo</strong><br/>
+  A Kanban-style task management application designed to organize tasks across different stages, from To Do to Done.
+  <br/><a href="https://github.com/majithiyaaditya/KasBan_ToDo">View Repository →</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/majithiyaaditya/Simon_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=Simon_game&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="Simon Game repository card" />
   </a>
+</p>
+
+<p align="center">
+  <strong>🎮 Simon Game</strong><br/>
+  A browser-based memory game where players repeat an increasingly challenging sequence of colors and sounds.
+  <br/><a href="https://github.com/majithiyaaditya/Simon_game">View Repository →</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/majithiyaaditya/LMS-MAIN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=majithiyaaditya&repo=LMS-MAIN&hide_border=true&bg_color=0D1B1E&title_color=56C7B0&text_color=E6DCCF&icon_color=E6A66A" alt="Library Management System repository card" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Three completed projects. One continuous learning journey.</sub>
+  <strong>📚 Library Management System</strong><br/>
+  A library management project focused on organizing book information and maintaining library records.
+  <br/><a href="https://github.com/majithiyaaditya/LMS-MAIN">View Repository →</a>
 </p>
 
+<p align="center">
+  <sub>Three completed projects. One continuous learning journey. 🌱</sub>
+</p>
 💡 These project descriptions are starting points based on my current development work. I'll update them with actual repository links, screenshots, demos, and completed features as the projects evolve.
 
 ## 📊 GitHub Analytics
