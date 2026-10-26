@@ -134,7 +134,7 @@ I enjoy learning by building practical projects, understanding how things work b
 
 <sub>Statistics are provided by an external service and may take time to update. Language cards represent repository contents, not necessarily your overall proficiency.</sub>
 
-## 🤝 Let's Connect
+ 🤝 Let's Connect
 
 I'm always happy to learn from other developers, exchange ideas, and explore interesting projects.
 
