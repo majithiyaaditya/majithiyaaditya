@@ -23,9 +23,8 @@
 
 ---
 
-```bash
 $ whoami
-```
+
 
 ## 👋 Hey, I'm Aditya!
 
@@ -33,7 +32,6 @@ I'm an **MCA student and aspiring frontend developer**, passionate about buildin
 
 I enjoy learning by building practical projects, understanding how things work behind the scenes, and improving my code one step at a time.
 
-```js
 const aditya = {
   role: "Frontend Developer in Progress",
   education: "Master of Computer Applications (MCA)",
@@ -48,7 +46,6 @@ const aditya = {
 };
 
 console.log("Thanks for stopping by! 🚀");
-```
 
 ## ⚡ What I'm Working On
 
