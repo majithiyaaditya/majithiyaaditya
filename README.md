@@ -118,34 +118,6 @@ I enjoy learning by building practical projects, understanding how things work b
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center">📚 Library Management System</h3>
-<p align="center"><em>Library Records &amp; Book Management</em></p>
-
----
-
-**✨ Highlights**
-
-- Organizes book information.
-- Helps maintain library records.
-- Demonstrates a practical management-system project.
-
-**🛠️ Tech Stack**
-
-<p align="center">
-<img src="https://img.shields.io/badge/Technology_1-0D1B1E?style=flat-square&logoColor=56C7B0" />
-<img src="https://img.shields.io/badge/Technology_2-0D1B1E?style=flat-square&logoColor=E6A66A" />
-<img src="https://img.shields.io/badge/Technology_3-0D1B1E?style=flat-square&logoColor=56C7B0" />
-</p>
-
-<p align="center">
-<a href="https://github.com/majithiyaaditya/LMS-MAIN"><strong>↗ View Repository</strong></a>
-</p>
-
-</td>
-</tr>
 </table>
 
 <p align="center">
