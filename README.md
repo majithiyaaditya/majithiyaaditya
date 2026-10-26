@@ -21,10 +21,6 @@
 
 </div>
 
----
-<p align="left">
-  <code>$ whoami</code>
-</p>
 
 ## 👋 Hey, I'm Aditya!
 
