@@ -66,98 +66,91 @@ I enjoy learning by building practical projects, understanding how things work b
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 📝 KasBan Todo
-
-*Kanban-Style Task Manager*
-
-</div>
+<h3 align="center">📝 KasBan Todo</h3>
+<p align="center"><em>Kanban-Style Task Manager</em></p>
 
 ---
 
 **✨ Highlights**
 
-- Organizes tasks by workflow stage
-- Tracks tasks from To Do to Done
-- Provides a structured task-management interface
+- Organizes tasks by workflow stage.
+- Tracks tasks from To Do to Done.
+- Provides a structured task-management interface.
 
 **🛠️ Tech Stack**
 
-`React` `TypeScript` `Zustand` `Tailwind CSS`
+<p>
+<img src="https://img.shields.io/badge/React-0D1B1E?style=flat-square&logo=react&logoColor=56C7B0" />
+<img src="https://img.shields.io/badge/TypeScript-0D1B1E?style=flat-square&logo=typescript&logoColor=56C7B0" />
+<img src="https://img.shields.io/badge/Zustand-0D1B1E?style=flat-square&logoColor=E6A66A" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1B1E?style=flat-square&logo=tailwindcss&logoColor=56C7B0" />
+</p>
 
-<div align="center">
-
-[**↗ View Repository**](https://github.com/majithiyaaditya/KasBan_ToDo)
-
-</div>
+<p align="center">
+<a href="https://github.com/majithiyaaditya/KasBan_ToDo"><strong>↗ View Repository</strong></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🎮 Simon Game
-
-*Memory & Sequence Game*
-
-</div>
+<h3 align="center">🎮 Simon Game</h3>
+<p align="center"><em>Memory &amp; Sequence Game</em></p>
 
 ---
 
 **✨ Highlights**
 
-- Repeats an interactive color sequence
-- Challenges memory and concentration
-- Increases difficulty as you progress
+- Repeats an interactive color sequence.
+- Challenges memory and concentration.
+- Increases difficulty as you progress.
 
 **🛠️ Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+<p>
+<img src="https://img.shields.io/badge/HTML5-0D1B1E?style=flat-square&logo=html5&logoColor=E6A66A" />
+<img src="https://img.shields.io/badge/CSS3-0D1B1E?style=flat-square&logo=css3&logoColor=56C7B0" />
+<img src="https://img.shields.io/badge/JavaScript-0D1B1E?style=flat-square&logo=javascript&logoColor=E6A66A" />
+</p>
 
-<div align="center">
-
-[**↗ View Repository**](https://github.com/majithiyaaditya/Simon_game)
-
-</div>
+<p align="center">
+<a href="https://github.com/majithiyaaditya/Simon_game"><strong>↗ View Repository</strong></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<div align="center">
-
-### 📚 Library Management System
-
-*Library Records & Book Management*
-
-</div>
+<h3 align="center">📚 Library Management System</h3>
+<p align="center"><em>Library Records &amp; Book Management</em></p>
 
 ---
 
 **✨ Highlights**
 
-- Organizes book information
-- Helps maintain library records
-- Demonstrates a practical management-system project
+- Organizes book information.
+- Helps maintain library records.
+- Demonstrates a practical management-system project.
 
-<div align="center">
+**🛠️ Tech Stack**
 
-[**↗ View Repository**](https://github.com/majithiyaaditya/LMS-MAIN)
+<p align="center">
+<img src="https://img.shields.io/badge/Technology_1-0D1B1E?style=flat-square&logoColor=56C7B0" />
+<img src="https://img.shields.io/badge/Technology_2-0D1B1E?style=flat-square&logoColor=E6A66A" />
+<img src="https://img.shields.io/badge/Technology_3-0D1B1E?style=flat-square&logoColor=56C7B0" />
+</p>
 
-</div>
+<p align="center">
+<a href="https://github.com/majithiyaaditya/LMS-MAIN"><strong>↗ View Repository</strong></a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
+<p align="center">
 <sub>🌊 Built with curiosity. Improved through practice. Driven by learning.</sub>
-
-</div>
-## 📊 GitHub Analytics
+</p>## 📊 GitHub Analytics
 
 <div align="center">
 
